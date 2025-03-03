@@ -1,0 +1,8 @@
+name: student-project
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pytest  
+  
