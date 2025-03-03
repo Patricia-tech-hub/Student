@@ -12,11 +12,11 @@ This is a simple Python project that defines a `Student` class with methods to m
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:Patricia-tech-hub/Student.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <project-directory>
+    cd Student 
     ```
 3. Install the required dependencies:
     ```sh
